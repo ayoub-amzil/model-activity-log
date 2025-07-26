@@ -3,7 +3,7 @@
   "description": "A simple Laravel package to log Eloquent model create, update, and delete activities with user tracking.",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Ayoub AMZIL",

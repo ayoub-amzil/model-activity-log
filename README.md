@@ -23,7 +23,7 @@ composer require ayoub-amzil/model-activity-log
 ### 2. Publish migration:
 
 ```php
-php artisan vendor:publish --tag=migrations
+php artisan vendor:publish --tag=model-activity-log-migrations
 
 ```
 
